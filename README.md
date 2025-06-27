@@ -58,9 +58,9 @@ streamlit run app.py
 ## 📸 Output
 1. Image ![Alt Text](https://github.com/VinothaRamkumar27/Helmet-Violation-and-Number-Plate-Detection-System/blob/c217fd1d212484f88aa0a7735e51931af441d7a6/Sample%20Outputs/image.png)
 
-2. Video ![Alt Text](https://github.com/VinothaRamkumar27/Helmet-Violation-and-Number-Plate-Detection-System/blob/c217fd1d212484f88aa0a7735e51931af441d7a6/Sample%20Outputs/video.png)
+2. Video  ![Alt Text](https://github.com/VinothaRamkumar27/Helmet-Violation-and-Number-Plate-Detection-System/blob/7d295011fabbc5b64ddb455e5e553adc4e00d74c/Sample%20Outputs/video.png)
 
-3. Webcam ![Alt Text](https://github.com/VinothaRamkumar27/Helmet-Violation-and-Number-Plate-Detection-System/blob/c217fd1d212484f88aa0a7735e51931af441d7a6/Sample%20Outputs/webcam.png)
+3. Webcam ![Alt Text](https://github.com/VinothaRamkumar27/Helmet-Violation-and-Number-Plate-Detection-System/blob/7d295011fabbc5b64ddb455e5e553adc4e00d74c/Sample%20Outputs/webcam.png)
 
 
 
